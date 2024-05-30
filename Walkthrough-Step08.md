@@ -94,6 +94,7 @@ sap.ui.define(
 ![image](https://github.com/hkhdoc/2024-kyu-fiori/assets/171245582/f27ba9fa-88e1-441e-a02e-42b0af1e1487)
 
 위와 같이 입력하면 i18n.properties 파일에서 다음 항목을 찾아서 화면에 출력하게 된다.
+
 ![image](https://github.com/hkhdoc/2024-kyu-fiori/assets/171245582/2dd214b4-72a6-47c0-a8cb-b5eb453ec8bb)
 
 6) 테스트를 수행한다.
