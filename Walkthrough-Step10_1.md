@@ -1,4 +1,4 @@
-# Walkthrough-Step07 : 템플릿을 이용한 Freestyle앱 기본구조 생성 #
+# Step10 : 템플릿을 이용한 Freestyle앱 기본구조 생성 #
 
 FreeStyle을 어플리케이션을 만들기 위해서 VSCode에서 제공하는 템플릿을 이용하여 기본 구조를 다음의 순서대로 만들어 본다.
 

@@ -1,4 +1,4 @@
-# 20240531-10-Step11 : Pages and Panels
+# Step11 : Pages and Panels
 
   
 
@@ -10,13 +10,17 @@
 
 Page는 다음과 같이 헤더/컨텐츠/푸터등으로 이루어진 전체화면으로 표시되다.
 
-![](https://www.evernote.com/shard/s610/sh/1e53fa5e-aac8-ac73-dba2-8982b70e1a9f/aNn3ru10ravUDVlKNqj4uAtqZvXGW01hOhjZwJdoUK6YSMCyHcByJBxZnQ/res/8e73547a-83bb-a0a8-3341-0cbe7097a5c9)  
+  
+
+![](Files/image.png)  
 
   
 
 Panel은 다음과 같이 표시된다.
 
-![](https://www.evernote.com/shard/s610/sh/1e53fa5e-aac8-ac73-dba2-8982b70e1a9f/aNn3ru10ravUDVlKNqj4uAtqZvXGW01hOhjZwJdoUK6YSMCyHcByJBxZnQ/res/376d500a-e20a-9e45-aa67-434b2d340644)  
+  
+
+![](Files/image%202.png)  
 
   
 
@@ -26,7 +30,7 @@ Panel은 다음과 같이 표시된다.
 
   
 
-![](https://www.evernote.com/shard/s610/sh/1e53fa5e-aac8-ac73-dba2-8982b70e1a9f/aNn3ru10ravUDVlKNqj4uAtqZvXGW01hOhjZwJdoUK6YSMCyHcByJBxZnQ/res/f57cd41e-a185-ae11-2320-b1e4e36ce195)  
+![](Files/image%203.png)  
 
   
 
@@ -34,15 +38,7 @@ Panel은 다음과 같이 표시된다.
 
   
 
-![](https://www.evernote.com/shard/s610/sh/1e53fa5e-aac8-ac73-dba2-8982b70e1a9f/aNn3ru10ravUDVlKNqj4uAtqZvXGW01hOhjZwJdoUK6YSMCyHcByJBxZnQ/res/7f8839ff-589d-2a76-9854-6443178db160)  
-
-  
-
-View의 소스를 다음과 같이 수정한다.
-
-  
-
-![](https://www.evernote.com/shard/s610/sh/1e53fa5e-aac8-ac73-dba2-8982b70e1a9f/aNn3ru10ravUDVlKNqj4uAtqZvXGW01hOhjZwJdoUK6YSMCyHcByJBxZnQ/res/e756dff4-a362-d2d8-274c-621efabf42db)  
+![](Files/image%204.png)  
 
   
 
@@ -50,7 +46,7 @@ View의 소스를 다음과 같이 수정한다.
 
   
 
-![](https://www.evernote.com/shard/s610/sh/1e53fa5e-aac8-ac73-dba2-8982b70e1a9f/aNn3ru10ravUDVlKNqj4uAtqZvXGW01hOhjZwJdoUK6YSMCyHcByJBxZnQ/res/48659282-5907-02ef-2ff5-add07daaeb02)  
+![](Files/image%205.png)  
 
   
 
@@ -58,7 +54,7 @@ View의 소스를 다음과 같이 수정한다.
 
   
 
-![](https://www.evernote.com/shard/s610/sh/1e53fa5e-aac8-ac73-dba2-8982b70e1a9f/aNn3ru10ravUDVlKNqj4uAtqZvXGW01hOhjZwJdoUK6YSMCyHcByJBxZnQ/res/dbcee851-c912-b234-61a1-7fff807c7b09)  
+![](Files/image%206.png)  
 
   
 
@@ -66,7 +62,7 @@ i18n 파일 (i18n.properties)에 텍스트를 등록한다.
 
   
 
-![](https://www.evernote.com/shard/s610/sh/1e53fa5e-aac8-ac73-dba2-8982b70e1a9f/aNn3ru10ravUDVlKNqj4uAtqZvXGW01hOhjZwJdoUK6YSMCyHcByJBxZnQ/res/05373aad-559a-91fd-c62e-91391bea775c)  
+![](Files/image%207.png)  
 
   
 
@@ -74,7 +70,9 @@ i18n 파일 (i18n.properties)에 텍스트를 등록한다.
 
   
 
-![](https://www.evernote.com/shard/s610/sh/1e53fa5e-aac8-ac73-dba2-8982b70e1a9f/aNn3ru10ravUDVlKNqj4uAtqZvXGW01hOhjZwJdoUK6YSMCyHcByJBxZnQ/res/3538d85c-7808-5884-9466-c60ea4c14ca0)  
+![](Files/image%208.png)  
+
+  
 
   
 
@@ -82,7 +80,11 @@ i18n 파일 (i18n.properties)에 텍스트를 등록한다.
 
   
 
-![](https://www.evernote.com/shard/s610/sh/1e53fa5e-aac8-ac73-dba2-8982b70e1a9f/aNn3ru10ravUDVlKNqj4uAtqZvXGW01hOhjZwJdoUK6YSMCyHcByJBxZnQ/res/22412e66-a195-3396-9e05-afce7a28a7c1)![](https://www.evernote.com/shard/s610/sh/1e53fa5e-aac8-ac73-dba2-8982b70e1a9f/aNn3ru10ravUDVlKNqj4uAtqZvXGW01hOhjZwJdoUK6YSMCyHcByJBxZnQ/res/0dd5b0eb-b55d-98e8-3011-5cd9c50065c9)  
+![](Files/image%209.png)  
+
+  
+
+![](Files/image%2010.png)  
 
   
 
@@ -90,4 +92,4 @@ i18n 파일 (i18n.properties)에 텍스트를 등록한다.
 
   
 
-![](https://www.evernote.com/shard/s610/sh/1e53fa5e-aac8-ac73-dba2-8982b70e1a9f/aNn3ru10ravUDVlKNqj4uAtqZvXGW01hOhjZwJdoUK6YSMCyHcByJBxZnQ/res/69475a77-11c1-d452-ca58-b1b8ba67dbee)
+![](Files/image%2011.png)

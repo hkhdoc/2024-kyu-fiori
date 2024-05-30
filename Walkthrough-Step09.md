@@ -1,4 +1,4 @@
-# Walkthrough-Step09 : Component.js
+# Step09 : Component.js
 
 - Fiori 런치패드에서는 이미 런치패드 프로그램을 통해서 화면에 html이 출력된 상태라서, 특정 영역에 여러 UI5 어플리케이션을 번갈아 가면서 출력하는 것은 UI5 어플리케이션의 index.html을 가지고 시작할 수 없다.
 - UI5에서는 sap/ui/core/UIComponent 라이브러리를 이용해서 만든 Component.js 파일으로 UI5 어플리케이션을 시작해서 웹페이지의 특정 영역을 해당 결과값을 가지고 출력하도록 프로그래밍이 가능하다.

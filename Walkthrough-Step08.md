@@ -1,4 +1,4 @@
-# Walkthrough-Step08 : i18n 모델 #
+# Step08 : i18n 모델 #
 - i18n = internationalization
 - 화면의 텍스트를 브라우저의 언어별로 설정하기 위해서 사용
 - ResourceModel 모듈을 사용

@@ -1,4 +1,4 @@
-# Walkthrough-Step10 : manifest.json : 어플리케이션 설정 파일 #
+# Step10 : manifest.json : 어플리케이션 설정 파일 #
 
 - sap.app
 	- 컴포넌트의 네임스페이스 정의 (해당 네임스페이스는 webapp 폴더를 나타낸다)
