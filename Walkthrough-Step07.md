@@ -1,4 +1,4 @@
-# Walkthrough-Step07
+# Walkthrough-Step07 : JSON 모델
 
 ### JSON 모델 ###
 - JSON 데이터를 다루는 모델
