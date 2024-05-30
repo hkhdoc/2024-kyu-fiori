@@ -1,4 +1,4 @@
-# Walkthrough-Step06-모듈
+# Walkthrough-Step06 : 모듈
 
 모듈
 - 코드를 개별파일로 분리하여 의존성 및 재사용성 향상
